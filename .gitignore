@@ -1,0 +1,14 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.duckdb
+*.duckdb.wal
+*_panoramas/
+*.e57
+*.las
+*.laz
+*.partial*
+# Retain local handoff copies without publishing duplicate source or packages.
+/PointCloud_Filter_SDKFree_v3_0/
+/PointCloud_Filter_SDKFree_v3_1.zip

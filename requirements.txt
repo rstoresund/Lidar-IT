@@ -1,0 +1,6 @@
+numpy>=1.26,<3
+pye57>=0.4.19,<0.6
+laspy[lazrs]>=2.5,<3
+customtkinter>=5.2,<6
+duckdb>=1.2,<2
+Pillow>=10,<13
